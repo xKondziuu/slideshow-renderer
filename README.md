@@ -2,7 +2,7 @@
 #### z ładowaniem obrazków z folderu
 ***
 #
-### [Przykład użycia](http://storage.axel-sklep.com.pl/robotyka/robotyka-karuzela/example.html "example.ht
+### [Przykład użycia](http://storage.axel-sklep.com.pl/robotyka/robotyka-karuzela/example.html "example.html")
 #
 ##### Instalacja:
 Aby zainstalować skrypt na swojej stronie, należy zaimplementować ``jquery-3.6.0.min.js`` do naszej strony, a następnie na samym końcu elementu ``body`` należy dodać zaledwie jeden skrypt ``slideshow.js``:
